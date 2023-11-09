@@ -1,0 +1,38 @@
+{
+  "bestmap": [
+    {
+      "commentgood": 1,
+      "commentid": 1,
+      "commenttext": 1,
+      "userheadphoto": 1,
+      "userid": 1,
+      "username": 1
+    }
+  ],
+  //"contentbad": 17553,
+  "contentcomment": 0,
+  "contentgood": 1,
+  "contentid": "73d6592a600b11e8afee309c23a27303",
+  "contentlevel": 3,
+  "contenttag": "8c5f;5283;8yhn;",
+  "contenttext": "",
+  "contenttitle": "#宠物##猫星人##心都被萌化了#高冷p总的反差萌",
+  "contenttype": 1,
+  "contentuid": "ae007cd921884577a0726bc495ff102c",
+  "contenturllist": [
+    "https://ctkj-1256675270.cos.ap-shanghai.myqcloud.com/e51960f78dfd49b79aacd439d012fefd.jpg",
+    "https://ctkj-1256675270.cos.ap-shanghai.myqcloud.com/c4d9e2e972f649a9b139b19bfa5f486f.mp4"
+  ],
+  "createtime": "20180531074647",
+  "isfollow": "N",
+  "isshowtitle": 1,
+  "playcount": 47477,
+  "pushcount": 0,
+  "readcount": 0,
+  "repeatcount": 0,
+  "showtime": 1,
+  "tagshow": 1,
+  "tagshowid": "测试内容ih18",
+  "userheadphoto": 1,
+  "username": 1
+}
